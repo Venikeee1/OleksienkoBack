@@ -1,0 +1,10 @@
+2018-07-28 23:18:55	admin	http://oleksienko/processwire/setup/template/removeFields	Deleted field "field" data in 0 row(s) from 0 page(s) using template "erro404". [page-by-page]
+2018-07-28 23:18:55	admin	http://oleksienko/processwire/setup/template/removeFields	Deleted field "field_END" data in 0 row(s) from 0 page(s) using template "erro404". [page-by-page]
+2018-08-01 00:04:40	admin	http://oleksienko/processwire/setup/field/save	Deleted field &quot;error&quot; data in 1 row(s) from 1 page(s) using template &quot;repeater_homepage_section&quot;. [page-by-page]
+2018-08-01 00:04:40	admin	http://oleksienko/processwire/setup/field/save	Deleted field &quot;error404_description&quot; data in 1 row(s) from 1 page(s) using template &quot;repeater_homepage_section&quot;. [page-by-page]
+2018-08-01 00:18:44	admin	http://oleksienko/processwire/setup/template/removeFields	Deleted field &quot;test_url&quot; data in 0 row(s) from 0 page(s) using template &quot;home&quot;. [page-by-page]
+2018-08-02 00:31:14	admin	http://oleksienko/processwire/setup/template/removeFields	Deleted field &quot;section_name_first&quot; data in 0 row(s) from 0 page(s) using template &quot;category&quot;. [page-by-page]
+2018-08-02 00:31:14	admin	http://oleksienko/processwire/setup/template/removeFields	Deleted field &quot;section_name_second&quot; data in 0 row(s) from 0 page(s) using template &quot;category&quot;. [page-by-page]
+2018-08-02 00:31:14	admin	http://oleksienko/processwire/setup/template/removeFields	Deleted field &quot;slides&quot; data in 0 row(s) from 0 page(s) using template &quot;category&quot;. [page-by-page]
+2018-08-02 13:37:45	admin	http://oleksienko/processwire/profile/	Профиль сохранен - admin_theme, language
+2018-08-02 13:43:35	admin	http://oleksienko/processwire/setup/field/save	Deleted field &quot;use_letter&quot; data in 1 row(s) from 1 page(s) using template &quot;repeater_homepage_section&quot;. [page-by-page]

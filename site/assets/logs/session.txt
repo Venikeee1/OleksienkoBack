@@ -1,0 +1,7 @@
+2018-07-28 17:25:21	admin	http://oleksienko/processwire/login/	Successful login for 'admin'
+2018-08-01 00:23:19	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: 127.0.0.1)
+2018-08-01 00:36:47	admin	http://oleksienko/processwire/login/?id=105	Successful login for 'admin'
+2018-08-01 00:40:07	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: 127.0.0.1)
+2018-08-01 00:44:13	admin	http://oleksienko/processwire/login/	Successful login for 'admin'
+2018-08-05 18:24:07	?	?	User 'admin' - Session timed out (session older than 86400 seconds) (IP: 127.0.0.1)
+2018-08-05 18:24:16	admin	http://oleksienko/processwire/login/	Successful login for 'admin'
