@@ -116,5 +116,5 @@ $config->installed = 1532787869;
  * Installer: HTTP Hosts Whitelist
  * 
  */
-$config->httpHosts = array('oleksienko');
+$config->httpHosts = array('oleksienkoBack');
 

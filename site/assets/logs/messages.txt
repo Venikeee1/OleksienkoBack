@@ -8,3 +8,10 @@
 2018-08-02 00:31:14	admin	http://oleksienko/processwire/setup/template/removeFields	Deleted field &quot;slides&quot; data in 0 row(s) from 0 page(s) using template &quot;category&quot;. [page-by-page]
 2018-08-02 13:37:45	admin	http://oleksienko/processwire/profile/	Профиль сохранен - admin_theme, language
 2018-08-02 13:43:35	admin	http://oleksienko/processwire/setup/field/save	Deleted field &quot;use_letter&quot; data in 1 row(s) from 1 page(s) using template &quot;repeater_homepage_section&quot;. [page-by-page]
+2018-08-12 17:23:40	admin	http://oleksienkoBack/processwire/setup/template/removeFields	Deleted field &quot;inner_page_info_text&quot; data in 0 row(s) from 0 page(s) using template &quot;project&quot;. [page-by-page]
+2018-08-13 19:07:34	admin	http://oleksienkoBack/processwire/setup/template/removeFields	Deleted field &quot;item_description&quot; data in 1 row(s) from 1 page(s) using template &quot;contacts&quot;. [page-by-page]
+2018-08-13 20:44:40	admin	http://oleksienkoBack/processwire/setup/field/save	Deleted field &quot;section_image&quot; data in 0 row(s) from 0 page(s) using template &quot;repeater_url_list&quot;. [page-by-page]
+2018-08-13 20:50:39	admin	http://oleksienkoBack/processwire/setup/template/removeFields	Deleted field &quot;url_list&quot; data in 1 row(s) from 1 page(s) using template &quot;video&quot;. [page-by-page]
+2018-08-13 20:53:08	admin	http://oleksienkoBack/processwire/setup/template/removeFields	Deleted field &quot;image&quot; data in 0 row(s) from 0 page(s) using template &quot;video&quot;. [page-by-page]
+2018-08-13 22:08:38	admin	http://oleksienkoBack/processwire/setup/template/removeFields	Deleted field &quot;inner_page_info_awards&quot; data in 3 row(s) from 3 page(s) using template &quot;project&quot;. [page-by-page]
+2018-08-13 22:08:38	admin	http://oleksienkoBack/processwire/setup/template/removeFields	Deleted field &quot;inner_page_info_tag&quot; data in 3 row(s) from 3 page(s) using template &quot;project&quot;. [page-by-page]
